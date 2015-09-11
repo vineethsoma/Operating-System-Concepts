@@ -1,0 +1,51 @@
+// prints How are you? 
+1 // loads 74 to AC
+72 
+9	// prints (char)AC 
+2
+1
+111 //loads  to AC 
+9	//prints o 
+2 
+1
+119 // 
+9
+2	//prints w 
+1 
+32	//prints space
+9
+2
+1
+97 
+9	//prints a
+2
+1
+114 // prints r
+9
+2
+1
+101
+9	//prints e
+2
+1 
+32	//prints space
+9
+2
+1 
+89	//prints y
+9
+2
+1 
+111	//prints o
+9
+2
+1 
+117	//prints u
+9
+2
+1 
+63	//prints ? 
+9
+2
+50 
+
